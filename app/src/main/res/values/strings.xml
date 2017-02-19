@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="pranayama">pranayama</string>
+    <string name="vjrasana">vjrasana</string>
+    <string name="pavamuktasana">pavamuktasana</string>
+    <string name="paschimottanasana">paschimottanasana</string>
+    <string name="q2answer">vjrasana</string>
+    <string name="enter_the_answer">enter the answer</string>
+    <string name="quizSCORE">quizScore</string>
+</resources>
